@@ -5,13 +5,30 @@
     
   <url>
     <loc>http://kevin-que.github.io/2018/02/20/2018%E5%B9%B4python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B8%80/</loc>
-    <lastmod>2018-02-20T06:46:25.722Z</lastmod>
+    <lastmod>2018-02-20T06:58:11.912Z</lastmod>
     <data>
         <display>
         <title>2018年python学习笔记一</title>
         <pubTime>2018-02-20T06:43:03.000Z</pubTime>
         
         <tag>python</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://kevin-que.github.io/2017/06/26/Django/</loc>
+    <lastmod>2018-02-20T06:53:20.722Z</lastmod>
+    <data>
+        <display>
+        <title>Django + mysql + bootstrap 配置</title>
+        <pubTime>2017-06-26T14:23:18.000Z</pubTime>
+        
+        <tag>Django</tag>
          
          
            
@@ -42,23 +59,6 @@
         <display>
         <title>Django+bootstrap</title>
         <pubTime>2017-06-25T05:06:00.000Z</pubTime>
-        
-        <tag>Django</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://kevin-que.github.io/2017/06/26/Django/</loc>
-    <lastmod>2018-02-20T05:49:49.400Z</lastmod>
-    <data>
-        <display>
-        <title>Django + mysql + bootstrap 配置</title>
-        <pubTime>2017-06-26T14:23:18.000Z</pubTime>
         
         <tag>Django</tag>
          

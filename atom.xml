@@ -6,15 +6,36 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-que.github.io/"/>
-  <updated>2018-02-20T05:49:49.400Z</updated>
+  <updated>2018-02-20T06:46:25.722Z</updated>
   <id>http://kevin-que.github.io/</id>
   
   <author>
-    <name>Kevin Que</name>
+    <name>Kevin</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年python学习笔记一</title>
+    <link href="http://kevin-que.github.io/2018/02/20/2018%E5%B9%B4python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B8%80/"/>
+    <id>http://kevin-que.github.io/2018/02/20/2018年python学习笔记一/</id>
+    <published>2018-02-20T06:43:03.000Z</published>
+    <updated>2018-02-20T06:46:25.722Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://kevin-que.github.io/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>Django + mysql + bootstrap 配置</title>
@@ -94,13 +115,13 @@
     <link href="http://kevin-que.github.io/2017/01/03/hexo/"/>
     <id>http://kevin-que.github.io/2017/01/03/hexo/</id>
     <published>2017-01-03T06:37:00.000Z</published>
-    <updated>2018-02-20T05:48:23.610Z</updated>
+    <updated>2018-02-20T06:39:54.327Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;目录：&lt;/p&gt;
 &lt;p&gt;1.安装Hexo&lt;br&gt;2.部署Hexo&lt;br&gt;3.Hexo命令&lt;br&gt;4.一些报错处理&lt;br&gt;5.博客管理&lt;br&gt;6.插件（RSS、Sitemap）&lt;br&gt;7.评论设置&lt;br&gt;8.404页面&lt;br&gt;9.统计&lt;br&gt;10.更新&lt;br&gt;11.总结&lt;br&gt;12.参考引用&lt;br&gt;13.搭建博客相关网站&lt;br&gt;简述&lt;br&gt;本文主要讲解Hexo安装时遇到的坑，Hexo安装之后的使用教程，Hexo安装需要的环境和教程，请自行百度、谷歌。&lt;/p&gt;
-&lt;p&gt;1.安装Hexo&lt;/p&gt;
+&lt;p&gt;1.安装Hexo 注意是在git命令行下安装&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;$ npm install -g hexo
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;坑1&lt;br&gt;这里可能安装失败，可能权限不够，在命令前加sudo&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;$ sudo npm install -g hexo

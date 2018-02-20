@@ -14,7 +14,7 @@
 <meta property="og:url" content="http://kevin-que.github.io/2017/01/03/hexo/index.html">
 <meta property="og:site_name" content="Kevin&#39;s Blog">
 <meta property="og:description" content="目录： 1.安装Hexo2.部署Hexo3.Hexo命令4.一些报错处理5.博客管理6.插件（RSS、Sitemap）7.评论设置8.404页面9.统计10.更新11.总结12.参考引用13.搭建博客相关网站简述本文主要讲解Hexo安装时遇到的坑，Hexo安装之后的使用教程，Hexo安装需要的环境和教程，请自行百度、谷歌。 1.安装Hexo 注意是在git命令行下安装 $ npm install">
-<meta property="og:updated_time" content="2018-02-20T06:39:54.327Z">
+<meta property="og:updated_time" content="2018-02-20T08:20:52.032Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo搭建Github-Pages博客填坑教程">
 <meta name="twitter:description" content="目录： 1.安装Hexo2.部署Hexo3.Hexo命令4.一些报错处理5.博客管理6.插件（RSS、Sitemap）7.评论设置8.404页面9.统计10.更新11.总结12.参考引用13.搭建博客相关网站简述本文主要讲解Hexo安装时遇到的坑，Hexo安装之后的使用教程，Hexo安装需要的环境和教程，请自行百度、谷歌。 1.安装Hexo 注意是在git命令行下安装 $ npm install">
@@ -191,7 +191,7 @@
 ├── themes
 ├── _config.yml
 └── package.json
-</code></pre><p>.deploy：执行hexo deploy命令部署到GitHub上的内容目录<br>public：执行hexo generate命令，输出的静态网页内容目录<br>scaffolds：layout模板文件目录，其中的md文件可以添加编辑<br>scripts：扩展脚本目录，这里可以自定义一些javascript脚本<br>source：文章源码目录，该目录下的markdown和html文件均会被hexo处理。该页面对应repo的根目录，404文件、favicon.ico文件，CNAME文件等都应该放这里，该目录下可新建页面目录。<br>_drafts：草稿文章<br>_posts：发布文章<br>themes：主题文件目录<br>_config.yml：全局配置文件，大多数的设置都在这里<br>package.json：应用程序数据，指明hexo的版本等信息，类似于一般软件中的关于按钮<br>3.Hexo命令<br>Hexo下，通过 _config.yml 设置博客，可以想象成我们用的软件里的设置一样，只是它通过一个文件列出这些参数，然后让我们填写和修改。</p>
+</code></pre><p>.deploy：执行hexo deploy命令部署到GitHub上的内容目录<br>public：执行hexo generate命令，输出的静态网页内容目录<br>scaffolds：layout模板文件目录，其中的md文件可以添加编辑<br>scripts：扩展脚本目录，这里可以自定义一些javascript脚本<br>source：文章源码目录，该目录下的markdown和html文件均会被hexo处理。该页面对应repo的根目录，404文件、favicon.ico文件，CNAME文件等都应该放这里，该目录下可新建页面目录。<br>_drafts：草稿文章<br>_posts：发布文章<br>themes：主题文件目录<br>_config.yml：全局配置文件，大多数的设置都在这里<br>package.json：应用程序数据，指明hexo的版本等信息，类似于一般软件中的关于按钮<br><a id="more"></a><br>3.Hexo命令<br>Hexo下，通过 _config.yml 设置博客，可以想象成我们用的软件里的设置一样，只是它通过一个文件列出这些参数，然后让我们填写和修改。</p>
 <p>全局设置<br>在你博客目录下有一个文件名_config.yml，打开可以配置信息。</p>
 <p>局部页面<br>在你博客目录下 \themes\你使用的主题_config.yml</p>
 <p>写博客相关命令<br>    Hexo常用命令：</p>
@@ -236,7 +236,7 @@ tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜�
 <pre><code>tags:
 - tag1
 - tag2
-</code></pre><p>如果在博客文章列表中，不想全文显示，可以增加 <a id="more"></a>, 后面的内容就不会显示在列表。</p>
+</code></pre><p>如果在博客文章列表中，不想全文显示，可以增加 <!--more-->, 后面的内容就不会显示在列表。</p>
 <pre><code>&lt;!--more--&gt;
 </code></pre><p>6.插件<br>安装插件</p>
 <pre><code>$ npm install &lt;plugin-name&gt; --save

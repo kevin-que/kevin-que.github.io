@@ -4,14 +4,14 @@
 
     
   <url>
-    <loc>http://kevin-que.github.io/2018/02/20/2018%E5%B9%B4python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B8%80/</loc>
-    <lastmod>2018-02-20T07:05:46.893Z</lastmod>
+    <loc>http://kevin-que.github.io/2017/06/25/Django-bootstrap/</loc>
+    <lastmod>2018-02-20T08:21:43.080Z</lastmod>
     <data>
         <display>
-        <title>2018年python学习笔记一</title>
-        <pubTime>2018-02-20T06:43:03.000Z</pubTime>
+        <title>Django+bootstrap</title>
+        <pubTime>2017-06-25T05:06:00.000Z</pubTime>
         
-        <tag>python</tag>
+        <tag>Django</tag>
          
          
            
@@ -22,7 +22,7 @@
     
   <url>
     <loc>http://kevin-que.github.io/2017/06/26/Django/</loc>
-    <lastmod>2018-02-20T06:53:20.722Z</lastmod>
+    <lastmod>2018-02-20T08:21:11.039Z</lastmod>
     <data>
         <display>
         <title>Django + mysql + bootstrap 配置</title>
@@ -39,7 +39,7 @@
     
   <url>
     <loc>http://kevin-que.github.io/2017/01/03/hexo/</loc>
-    <lastmod>2018-02-20T06:39:54.327Z</lastmod>
+    <lastmod>2018-02-20T08:20:52.032Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建Github-Pages博客填坑教程</title>
@@ -53,14 +53,14 @@
 
     
   <url>
-    <loc>http://kevin-que.github.io/2017/06/25/Django-bootstrap/</loc>
-    <lastmod>2018-02-20T05:49:52.992Z</lastmod>
+    <loc>http://kevin-que.github.io/2017/06/18/Python/</loc>
+    <lastmod>2018-02-20T08:20:25.333Z</lastmod>
     <data>
         <display>
-        <title>Django+bootstrap</title>
-        <pubTime>2017-06-25T05:06:00.000Z</pubTime>
+        <title>Python 学习笔记一</title>
+        <pubTime>2017-06-18T07:46:21.000Z</pubTime>
         
-        <tag>Django</tag>
+        <tag>python</tag>
          
          
            
@@ -70,12 +70,12 @@
 
     
   <url>
-    <loc>http://kevin-que.github.io/2017/06/18/Python/</loc>
-    <lastmod>2018-02-20T05:48:34.587Z</lastmod>
+    <loc>http://kevin-que.github.io/2018/02/20/2018%E5%B9%B4python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B8%80/</loc>
+    <lastmod>2018-02-20T07:05:46.893Z</lastmod>
     <data>
         <display>
-        <title>Python 学习笔记一</title>
-        <pubTime>2017-06-18T07:46:21.000Z</pubTime>
+        <title>2018年python学习笔记一</title>
+        <pubTime>2018-02-20T06:43:03.000Z</pubTime>
         
         <tag>python</tag>
          
